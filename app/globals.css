@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Inter:wght@200;300;400;500&family=Montserrat:wght@700&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.main {
+  font-family: 'Inter', sans-serif;
+}
