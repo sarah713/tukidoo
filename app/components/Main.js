@@ -14,7 +14,7 @@ const Main = () => {
             className=" bg-gray-200 rounded-lg border border-indigo-600"
           />
           <h2 className="text-xl font-semibold leading-relaxed text-gray-800">
-            Algorithms 101 I
+            Algorithms 101
           </h2>
         </div>
         <div className="flex space-x-2">
